@@ -1,0 +1,17 @@
+
+img{
+  position: relative;
+  width: 100%;
+  align-items: center;
+}
+.texto{
+  font-family: 'Baloo', cursive;
+  font-size: 1.2em;
+  position: absolute;
+  text-align: right;
+  margin: 50px;
+}
+.autor{
+  position: absolute;
+  height: 50px;
+}
